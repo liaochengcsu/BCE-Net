@@ -10,10 +10,10 @@ A reliable building footprints change extraction network based on historical map
 
 ### DataSet
  
-Modified WHU-CD Dataset: Download from [Baiduyun:](https://pan.baidu.com/) with extract code:. It contains 1260 and 690 sliced tiles same as the [offcial publication:] (http://gpcv.whu.edu.cn/data/building_dataset.html).   
+Modified WHU-CD Dataset: Download at [Baiduyun:](https://pan.baidu.com/) with extract code:. It contains 1260 and 690 sliced tiles same as the [Offcial Webset:](http://gpcv.whu.edu.cn/data/building_dataset.html) .   
 
 
-The SI-BU Dataset:  Download from [Baiduyun:](https://pan.baidu.com/) with extract code: . 
+The SI-BU Dataset: Download at [Baiduyun:](https://pan.baidu.com/) with extract code: . 
 
 
 
@@ -24,5 +24,3 @@ Run test.py
 ## Results
 
 ## Reference
-
-## Link
