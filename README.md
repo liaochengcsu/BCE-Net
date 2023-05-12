@@ -15,7 +15,7 @@ BCE-Net consists of four parts: a pre-trained encoder for extracting robust mult
 + Download the trained weights at [Weights-Baiduyun](https://pan.baidu.com/s/1LjhSh3ijoxzwn8dei8Z-4g) with extract code: wyxv
 + Prapare the data and run the testXX.py， we provided detaild description in the comments
 
-### DataSet
+## DataSets
 
 <div align=center><img width="600" height="400" src="https://github.com/liaochengcsu/BCE-Net/blob/main/pics/figure10.png"/></div>
 
