@@ -10,10 +10,10 @@ BCE-Net consists of four parts: a pre-trained encoder for extracting robust mult
 ## Usage
 
 ### DataSet
-Modified WHU-CD Dataset: Download at [Baiduyun:](https://pan.baidu.com/s/1lceyKsCTcqw2Neq1FUzh9w) with extract code: c9a4. It contains 1260 and 690 sliced tiles same as the [Offcial Webset:](http://gpcv.whu.edu.cn/data/building_dataset.html).   
+Modified WHU-CD Dataset: Download at [Baiduyun](https://pan.baidu.com/s/1lceyKsCTcqw2Neq1FUzh9w) with extract code: c9a4. It contains 1260 and 690 sliced tiles same as the [Offcial Webset](http://gpcv.whu.edu.cn/data/building_dataset.html)   
 
 
-The SI-BU Dataset: Download at [Baiduyun:](https://pan.baidu.com/s/1Um2nnbCXDtQXMhiWJR1d3A) with extract code: 5gyh.  It contains 3604 and 1328 sliced tiles for training and test dataset.
+The SI-BU Dataset: Download at [Baiduyun](https://pan.baidu.com/s/1Um2nnbCXDtQXMhiWJR1d3A) with extract code: 5gyh.  It contains 3604 and 1328 sliced tiles for training and test dataset.
 
 
 ### Test
