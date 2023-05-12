@@ -10,11 +10,12 @@ Automatic and periodic recompiling of building databases with up-to-date high-re
 BCE-Net consists of four parts: a pre-trained encoder for extracting robust multi-level features; multi-task segmentation branches for extraction of newly constructed, removed, and existing buildings; a DCN-based transform module for consistent adaptive adjustment of features; and a building instance-constrained contrastive learning module for discriminating feature optimization.
 
 ## Test
+```
 + Create an enviroment according to requirements.txt
 + Build the [DCNv2](https://github.com/CharlesShang/DCNv2/tree/master) (Deformable Convolutional Networks V2)
 + Download the trained weights at [Weights-Baiduyun](https://pan.baidu.com/s/1LjhSh3ijoxzwn8dei8Z-4g) with extract code: wyxv
 + Prapare the data and run the testXX.py， we provided detaild description in the comments
-
+```
 ## DataSets
 
 <div align=center><img width="600" height="400" src="https://github.com/liaochengcsu/BCE-Net/blob/main/pics/figure10.png"/></div>
