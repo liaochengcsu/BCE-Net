@@ -19,14 +19,13 @@ BCE-Net consists of four parts: a pre-trained encoder for extracting robust mult
 
 <div align=center><img width="600" height="400" src="https://github.com/liaochengcsu/BCE-Net/blob/main/pics/figure10.png"/></div>
 
-Modified WHU-CD Dataset: Download at [WHU-CD-Baiduyun](https://pan.baidu.com/s/1lceyKsCTcqw2Neq1FUzh9w) with extract code: c9a4. It contains 1260 and 690 sliced tiles same as the [Offcial Webset](http://gpcv.whu.edu.cn/data/building_dataset.html)   
++ The modified WHU-CD Dataset: Download at [WHU-CD-Baiduyun](https://pan.baidu.com/s/1lceyKsCTcqw2Neq1FUzh9w) with extract code: c9a4. It contains 1260 and 690 sliced tiles same as the [Offcial Webset](http://gpcv.whu.edu.cn/data/building_dataset.html)   
 <div align=center><img width="600" height="350" src="https://github.com/liaochengcsu/BCE-Net/blob/main/pics/figure9.png"/></div>
 
-The SI-BU Dataset: Download at [SI-BU-Baiduyun](https://pan.baidu.com/s/1Um2nnbCXDtQXMhiWJR1d3A) with extract code: 5gyh.  It contains 3604 and 1328 sliced tiles for training and test dataset.
++ The SI-BU Dataset: Download at [SI-BU-Baiduyun](https://pan.baidu.com/s/1Um2nnbCXDtQXMhiWJR1d3A) with extract code: 5gyh.  It contains 3604 and 1328 sliced tiles for training and test dataset.
 
 ## Results
-<div><img width="410" height="490" src="https://github.com/liaochengcsu/BCE-Net/blob/main/pics/figure12.png"/><img width="410" height="490" src="https://github.com/liaochengcsu/BCE-Net/blob/main/pics/figure14.png"/></div>
-![Results on SI-BU](https://github.com/liaochengcsu/BCE-Net/blob/main/pics/figure12.png)
-![Results on WHU-CD](https://github.com/liaochengcsu/BCE-Net/blob/main/pics/figure14.png)
+<div align=center><img width="410" height="490" src="https://github.com/liaochengcsu/BCE-Net/blob/main/pics/figure12.png"/><img width="410" height="490" src="https://github.com/liaochengcsu/BCE-Net/blob/main/pics/figure14.png"/></div>
+
 ## Reference
 https://github.com/CharlesShang/DCNv2/tree/master
