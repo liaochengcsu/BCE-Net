@@ -7,18 +7,16 @@ Automatic and periodic recompiling of building databases with up-to-date high-re
 ## Method
 BCE-Net consists of four parts: a pre-trained encoder for extracting robust multi-level features; multi-task segmentation branches for extraction of newly constructed, removed, and existing buildings; a DCN-based transform module for consistent adaptive adjustment of features; and a building instance-constrained contrastive learning module for discriminating feature optimization.
 
-## Usage
-The trained weights could download at [Weights-Baiduyun](https://pan.baidu.com/s/1LjhSh3ijoxzwn8dei8Z-4g) with extract code: wyxv.
+## Test
+Create enviroment according to requirements.txt
+Build the [DCNv2](https://github.com/CharlesShang/DCNv2/tree/master) (Deformable Convolutional Networks V2)
+Download the trained weights at [Weights-Baiduyun](https://pan.baidu.com/s/1LjhSh3ijoxzwn8dei8Z-4g) with extract code: wyxv.
+Prapare the dataset
+Run the testXX.py
 
 ### DataSet
 Modified WHU-CD Dataset: Download at [WHU-CD-Baiduyun](https://pan.baidu.com/s/1lceyKsCTcqw2Neq1FUzh9w) with extract code: c9a4. It contains 1260 and 690 sliced tiles same as the [Offcial Webset](http://gpcv.whu.edu.cn/data/building_dataset.html)   
-
-
 The SI-BU Dataset: Download at [SI-BU-Baiduyun](https://pan.baidu.com/s/1Um2nnbCXDtQXMhiWJR1d3A) with extract code: 5gyh.  It contains 3604 and 1328 sliced tiles for training and test dataset.
-
-
-### Test
-Run test.py
 
 ## Results
 
