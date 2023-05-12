@@ -25,7 +25,7 @@ BCE-Net consists of four parts: a pre-trained encoder for extracting robust mult
 + The SI-BU Dataset: Download at [SI-BU-Baiduyun](https://pan.baidu.com/s/1Um2nnbCXDtQXMhiWJR1d3A) with extract code: 5gyh.  It contains 3604 and 1328 sliced tiles for training and test dataset.
 
 ## Results
-<div align=center><img width="410" height="490" src="https://github.com/liaochengcsu/BCE-Net/blob/main/pics/figure12.png"/><img width="410" height="490" src="https://github.com/liaochengcsu/BCE-Net/blob/main/pics/figure14.png"/></div>
+<div align=center><img width="410" height="490" src="https://github.com/liaochengcsu/BCE-Net/blob/main/pics/figure12.png" title="ddd"><img width="410" height="490" src="https://github.com/liaochengcsu/BCE-Net/blob/main/pics/figure14.png"/></div>
 
 ## Reference
 https://github.com/CharlesShang/DCNv2/tree/master
