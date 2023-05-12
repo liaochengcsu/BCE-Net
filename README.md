@@ -13,16 +13,17 @@ BCE-Net consists of four parts: a pre-trained encoder for extracting robust mult
 + Create an enviroment according to requirements.txt
 + Build the [DCNv2](https://github.com/CharlesShang/DCNv2/tree/master) (Deformable Convolutional Networks V2)
 + Download the trained weights at [Weights-Baiduyun](https://pan.baidu.com/s/1LjhSh3ijoxzwn8dei8Z-4g) with extract code: wyxv
-+ Prapare the data and run the testXX.py we provided detaild description in the comments
++ Prapare the data and run the testXX.py， we provided detaild description in the comments
 
 ### DataSet
 
 <div align=center><img width="600" height="400" src="https://github.com/liaochengcsu/BCE-Net/blob/main/pics/figure10.png"/></div>
-+ Modified WHU-CD Dataset: Download at [WHU-CD-Baiduyun](https://pan.baidu.com/s/1lceyKsCTcqw2Neq1FUzh9w) with extract code: c9a4. It contains 1260 and 690 sliced tiles same as the [Offcial Webset](http://gpcv.whu.edu.cn/data/building_dataset.html)   
-<div align=center><img width="700" height="400" src="https://github.com/liaochengcsu/BCE-Net/blob/main/pics/figure9.png"/></div>
-+ The SI-BU Dataset: Download at [SI-BU-Baiduyun](https://pan.baidu.com/s/1Um2nnbCXDtQXMhiWJR1d3A) with extract code: 5gyh.  It contains 3604 and 1328 sliced tiles for training and test dataset.
+Modified WHU-CD Dataset: Download at [WHU-CD-Baiduyun](https://pan.baidu.com/s/1lceyKsCTcqw2Neq1FUzh9w) with extract code: c9a4. It contains 1260 and 690 sliced tiles same as the [Offcial Webset](http://gpcv.whu.edu.cn/data/building_dataset.html)   
+<div align=center><img width="600" height="350" src="https://github.com/liaochengcsu/BCE-Net/blob/main/pics/figure9.png"/></div>
+The SI-BU Dataset: Download at [SI-BU-Baiduyun](https://pan.baidu.com/s/1Um2nnbCXDtQXMhiWJR1d3A) with extract code: 5gyh.  It contains 3604 and 1328 sliced tiles for training and test dataset.
 
 ## Results
+<div align=center><img width="600" height="400" src="https://github.com/liaochengcsu/BCE-Net/blob/main/pics/figure12.png"/><img width="600" height="400" src="https://github.com/liaochengcsu/BCE-Net/blob/main/pics/figure14.png"/></div>
 ![Results on SI-BU](https://github.com/liaochengcsu/BCE-Net/blob/main/pics/figure12.png)
 ![Results on WHU-CD](https://github.com/liaochengcsu/BCE-Net/blob/main/pics/figure14.png)
 ## Reference
